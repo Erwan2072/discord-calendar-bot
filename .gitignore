@@ -1,0 +1,26 @@
+# Environnements virtuels
+venv/
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Déploiement local
+*.sqlite3
+
+# Configurations sensibles
+.env.*
+secrets.json
+
+# Cache
+.cache/
